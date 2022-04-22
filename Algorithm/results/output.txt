@@ -1,0 +1,20 @@
+1. Start at (1, 10)
+2. Move right to (2, 10)
+3. Move up to (2, 7)
+4. Move right to (9, 7)
+5. Move up to (9, 1)
+6. Move left to (3, 1)
+7. Move bottom to (3, 9)
+8. Move right to (10, 9)
+9. Move bottom to (10, 10)
+10. Move left to (8, 10)
+11. Move up to (8, 5)
+12. Move right to (10, 5)
+13. Move bottom to (10, 6)
+14. Move left to (5, 6)
+15. Move bottom to (5, 10)
+16. Move left to (4, 10)
+17. Move up to (4, 8)
+18. Done!
+
+Time elapsed : 1
